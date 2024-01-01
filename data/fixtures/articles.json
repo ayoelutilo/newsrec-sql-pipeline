@@ -1,0 +1,47 @@
+[
+  {
+    "id": "a1",
+    "title": "AI chips break energy-efficiency record",
+    "url": "https://example.com/a1",
+    "publishedAt": "2026-03-07T07:30:00Z",
+    "topics": ["ai", "technology"],
+    "embedding": [0.91, 0.16, 0.08, 0.02, 0.01, 0.04, 0.03, 0.01],
+    "popularity": 160
+  },
+  {
+    "id": "a2",
+    "title": "Local derby ends in dramatic upset",
+    "url": "https://example.com/a2",
+    "publishedAt": "2026-03-07T06:00:00Z",
+    "topics": ["sports"],
+    "embedding": [0.02, 0.88, 0.03, 0.05, 0.05, 0.03, 0.01, 0.01],
+    "popularity": 140
+  },
+  {
+    "id": "a3",
+    "title": "AI IPO reshapes global market sentiment",
+    "url": "https://example.com/a3",
+    "publishedAt": "2026-03-07T11:20:00Z",
+    "topics": ["ai", "finance"],
+    "embedding": null,
+    "popularity": null
+  },
+  {
+    "id": "a4",
+    "title": "Marathon prep plan for first-time runners",
+    "url": "https://example.com/a4",
+    "publishedAt": "2026-03-04T09:10:00Z",
+    "topics": ["health", "lifestyle"],
+    "embedding": [0.05, 0.3, 0.12, 0.84, 0.03, 0.02, 0.01, 0.04],
+    "popularity": 44
+  },
+  {
+    "id": "a5",
+    "title": "Open-source AI toolchain accelerates enterprise pilots",
+    "url": "https://example.com/a5",
+    "publishedAt": "2026-03-07T12:00:00Z",
+    "topics": ["ai", "developer"],
+    "embedding": [0.86, 0.2, 0.1, 0.05, 0.02, 0.02, 0.03, 0.02],
+    "popularity": 118
+  }
+]

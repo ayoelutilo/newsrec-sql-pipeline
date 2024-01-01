@@ -1,0 +1,58 @@
+[
+  {
+    "eventId": "e1",
+    "userId": "u1",
+    "articleId": "a1",
+    "type": "impression",
+    "timestamp": "2026-03-07T09:00:00Z"
+  },
+  {
+    "eventId": "e1",
+    "userId": "u1",
+    "articleId": "a1",
+    "type": "impression",
+    "timestamp": "2026-03-07T09:00:00Z"
+  },
+  {
+    "eventId": "e2",
+    "userId": "u1",
+    "articleId": "a1",
+    "type": "click",
+    "timestamp": "2026-03-07T09:01:00Z"
+  },
+  {
+    "eventId": "e3",
+    "userId": "u1",
+    "articleId": "a2",
+    "type": "impression",
+    "timestamp": "2026-03-07T09:10:00Z"
+  },
+  {
+    "eventId": "e4",
+    "userId": "u1",
+    "articleId": "a2",
+    "type": "dismiss",
+    "timestamp": "2026-03-07T09:12:00Z"
+  },
+  {
+    "eventId": "e5",
+    "userId": "u1",
+    "articleId": "a3",
+    "type": "click",
+    "timestamp": "2026-03-07T11:40:00Z"
+  },
+  {
+    "eventId": "e6",
+    "userId": "u1",
+    "articleId": "a5",
+    "type": "impression",
+    "timestamp": "2026-03-07T11:45:00Z"
+  },
+  {
+    "eventId": "e7",
+    "userId": "u2",
+    "articleId": "a4",
+    "type": "click",
+    "timestamp": "2026-03-07T11:47:00Z"
+  }
+]

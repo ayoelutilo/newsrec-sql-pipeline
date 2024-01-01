@@ -1,0 +1,22 @@
+{
+  "name": "newsrec-sql-pipeline",
+  "version": "0.1.0",
+  "private": true,
+  "description": "In-memory and SQL-backed news recommendation pipeline in TypeScript",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "simulate": "npm run build --silent && node dist/src/simulate.js",
+    "replay": "npm run build --silent && node dist/src/simulate.js u1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.17.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.5.0",
+    "vitest": "^2.1.0"
+  }
+}
