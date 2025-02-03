@@ -71,3 +71,5 @@ export function cosineSimilarity(a: number[] | null, b: number[] | null): number
   }
   return dot / denom;
 }
+
+// Refinement.
