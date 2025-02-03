@@ -42,3 +42,5 @@ describe("dedupInteractions", () => {
     expect(deduped.interactions[1].type).toBe("click");
   });
 });
+
+// Refinement.
