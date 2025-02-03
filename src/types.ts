@@ -106,3 +106,5 @@ export interface PipelineResult {
   articles: Article[];
   ranking: RankedArticle[];
 }
+
+// Refinement.
