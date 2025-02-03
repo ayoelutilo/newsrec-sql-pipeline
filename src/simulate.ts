@@ -25,3 +25,5 @@ for (const [index, row] of result.ranking.entries()) {
     `${index + 1}. ${row.article.id} | score=${row.score.toFixed(4)} | reasons=${row.reasons.join(",") || "none"}`,
   );
 }
+
+// Refinement.
