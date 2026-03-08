@@ -69,5 +69,3 @@ describe("pipeline edge cases", () => {
     expect(article?.popularity).toBe(0);
   });
 });
-
-// Refinement.

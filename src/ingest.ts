@@ -61,5 +61,3 @@ export function ingestInteractions(rawInteractions: RawInteraction[]): Interacti
     }))
     .sort((a, b) => a.timestamp.getTime() - b.timestamp.getTime());
 }
-
-// Refinement.

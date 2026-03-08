@@ -23,5 +23,3 @@ describe("fixture replay", () => {
     expect(ids1[0]).toBe("a3");
   });
 });
-
-// Refinement.

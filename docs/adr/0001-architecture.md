@@ -37,5 +37,3 @@ Trade-offs:
 
 - Fallback array similarity is slower than pgvector ANN indexes.
 - The learner is intentionally lightweight and not a full model lifecycle.
-
-- Changelog: minor updates.

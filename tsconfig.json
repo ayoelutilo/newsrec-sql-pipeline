@@ -14,4 +14,3 @@
   },
   "include": ["src/**/*.ts", "tests/**/*.ts", "data/**/*.json"]
 }
-

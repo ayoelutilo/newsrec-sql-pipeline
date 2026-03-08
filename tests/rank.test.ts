@@ -60,5 +60,3 @@ describe("rankArticles", () => {
     expect(second).toEqual(first);
   });
 });
-
-// Refinement.

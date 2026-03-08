@@ -40,5 +40,3 @@ describe("learnWeights", () => {
     expect(afterPositive - afterNegative).toBeGreaterThan(beforePositive - beforeNegative);
   });
 });
-
-// Refinement.

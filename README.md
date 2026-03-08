@@ -51,5 +51,3 @@ Replay coverage is in `tests/replay.test.ts` and executes the full flow.
 ## Architecture decision record
 
 See `docs/adr/0001-architecture.md`.
-
-- Changelog: minor updates.

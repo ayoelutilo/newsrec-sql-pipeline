@@ -34,5 +34,3 @@ export function dedupInteractions(interactions: Interaction[]): DedupResult {
     removedCount,
   };
 }
-
-// Refinement.

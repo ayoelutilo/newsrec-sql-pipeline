@@ -12,5 +12,3 @@ export function fixtureInput(userId = "u1"): PipelineInput {
     limit: 5,
   };
 }
-
-// Refinement.

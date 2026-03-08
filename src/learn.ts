@@ -45,5 +45,3 @@ export function learnWeights(
 
   return learned;
 }
-
-// Refinement.
